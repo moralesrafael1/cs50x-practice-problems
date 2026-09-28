@@ -1,34 +1,34 @@
 # 🎓 CS50x - Practice Problems
 
-Este repositório contém minhas soluções para os **Practice Problems** do curso **CS50x: Introduction to Computer Science** da **Harvard University**. 
+This repository contains my solutions for the **Practice Problems** from **CS50x: Introduction to Computer Science** by **Harvard University**. 
 
-O objetivo destes exercícios é consolidar conceitos fundamentais de Ciência da Computação, lógica de programação, estruturas de dados e algoritmos.
+The goal of these exercises is to strengthen fundamental concepts in Computer Science, programming logic, data structures, C, Python, SQL, WEB and algorithms.
 
 ---
 
-## 🛠️ Tecnologias e Linguagens
-- **C** (Semanas 1 a 5)
-- **Python** (Em breve)
-- **SQL / Web** (Em breve)
+## 🛠️ Technologies & Languages
+- **C** (Weeks 1 to 5)
+- **Python** (Coming soon)
+- **SQL / Web** (Coming soon)
 - **Linux / Bash** & **Git/GitHub**
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
 ```text
 .
-├── week-1/          # C: Conceitos básicos, sintaxe e lógica [x]
+├── week-1/          # C: Basic concepts, syntax, and logic [x]
 │   ├── debug/
 │   ├── half/
 │   └── prime/
-├── week-2/          # C: Arrays, strings e algoritmos [x]
+├── week-2/          # C: Arrays, strings, and algorithms [x]
 │   ├── hours/
 │   ├── no-vowels/
 │   └── password/
-├── week-3/          # C: Algoritmos de busca, ordenação e recursão []
-│   ├── average-temperature/    []
+├── week-3/          # C: Searching, sorting algorithms, and recursion []
+│   ├── average-temperature/    [x]
 │   ├── max/                    []
 │   ├── recursive/              [x]
 │   └── snack-bar/              []
-└── week-4/          # C: Ponteiros e alocação de memória
+└── week-4/          # C: Pointers and memory allocation []
