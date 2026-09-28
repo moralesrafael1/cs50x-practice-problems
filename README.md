@@ -34,7 +34,7 @@ The goal of these exercises is to strengthen fundamental concepts in Computer Sc
 │   └── password/
 ├── week-3/          # C: Searching, sorting algorithms, and recursion []
 │   ├── average-temperature/    [x]
-│   ├── max/                    []
+│   ├── max/                    [x]
 │   ├── recursive/              [x]
 │   └── snack-bar/              []
 └── week-4/          # C: Pointers and memory allocation []
