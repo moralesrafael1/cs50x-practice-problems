@@ -6,6 +6,12 @@ The goal of these exercises is to strengthen fundamental concepts in Computer Sc
 
 ---
 
+## 🔗 Useful Links
+- 🎓 **Official Course Page:** [CS50x Harvard](https://cs50.harvard.edu/x/)
+- 📑 **Practice Problems Specification:** [CS50x Practice Problems](https://cs50.harvard.edu/x/practice/)
+
+---
+
 ## 🛠️ Technologies & Languages
 - **C** (Weeks 1 to 5)
 - **Python** (Coming soon)
