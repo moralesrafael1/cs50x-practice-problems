@@ -13,7 +13,7 @@ The goal of these exercises is to strengthen fundamental concepts in Computer Sc
 ---
 
 ## 🛠️ Technologies & Languages
-- **C** (Weeks 1 to 5)
+- **C** (Weeks 1 to 5) (4/5)
 - **Python** (Coming soon)
 - **SQL / Web** (Coming soon)
 - **Linux / Bash** & **Git/GitHub**
@@ -32,9 +32,39 @@ The goal of these exercises is to strengthen fundamental concepts in Computer Sc
 │   ├── hours/
 │   ├── no-vowels/
 │   └── password/
-├── week-3/          # C: Searching, sorting algorithms, and recursion []
-│   ├── average-temperature/    [x]
-│   ├── max/                    [x]
-│   ├── recursive/              [x]
-│   └── snack-bar/              []
-└── week-4/          # C: Pointers and memory allocation []
+├── week-3/          # C: Searching, sorting algorithms, and recursion [x]
+│   ├── average-temperature/    
+│   ├── max/                    
+│   ├── recursive/              
+│   └── snack-bar/              
+├── week-4/          # C: Memory management, files, and metadata []
+│   ├── bottom-up/              []
+│   └── license/                []
+└── week-5/          # C: Advanced data structures []
+    └── trie/
+```
+
+---
+
+## 🚀 How to Run the Code
+
+To compile and run any C program in this repository, you will need the CS50 library (`cs50.h`) or a C compiler (`gcc` / `clang`).
+
+Example of compiling an exercise from Week 1:
+
+```bash
+# Navigate to the exercise directory
+cd week-1/prime
+
+# Compile using the CS50 library / make
+make prime
+
+# Run the program
+./prime
+```
+---
+
+## 📝 License & Purpose
+
+This repository is intended strictly for academic purposes and personal learning tracking.
+
