@@ -37,9 +37,9 @@ The goal of these exercises is to strengthen fundamental concepts in Computer Sc
 │   ├── max/                    
 │   ├── recursive/              
 │   └── snack-bar/              
-├── week-4/          # C: Memory management, files, and metadata []
-│   ├── bottom-up/              []
-│   └── license/                []
+├── week-4/          # C: Memory management, files, and metadata [x]
+│   ├── bottom-up/              
+│   └── license/                
 └── week-5/          # C: Advanced data structures []
     └── trie/
 ```
